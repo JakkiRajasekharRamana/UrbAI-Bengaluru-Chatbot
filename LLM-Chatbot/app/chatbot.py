@@ -918,7 +918,7 @@ def load_events():
         st.error("events.json not found.")
         return []
 
-GOOGLE_CALENDAR_API_KEY = "AIzaSyCJGhXkc83LcfVvwhUMw-AwoeJGKUIlA5U"
+GOOGLE_CALENDAR_API_KEY = "Your-Api-key"
 # User-provided public calendar for Karnataka events
 KARNATAKA_CALENDAR_ID = "a1c104988594d2f675c572bb4fde0f6f6a6ba14db661be1ca76464396be000c5@group.calendar.google.com"
 
