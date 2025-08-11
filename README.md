@@ -22,7 +22,6 @@ It delivers **real-time, localized information** using LLMs and RAG architecture
 - **Frontend:** Streamlit (with `@st.cache_resource` optimization)  
 - **Deployment:** Docker + Google Cloud Run  
 - **APIs:** Google Translate, Speech-to-Text, Weather API  
-
 ---
 
 ## 📂 Structure
