@@ -4,7 +4,6 @@ UrbAI is a multilingual, AI-powered smart city assistant designed for Bengaluru.
 It delivers **real-time, localized information** using LLMs and RAG architecture.
 
 ---
-
 ## 🔧 Features
 
 - 🗣️ Voice-based multilingual query support
