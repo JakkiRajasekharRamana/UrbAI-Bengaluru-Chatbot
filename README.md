@@ -17,7 +17,7 @@ It delivers **real-time, localized information** using LLMs and RAG architecture
 
 ## 🛠️ Tech Stack
 
-- **LLM:** Phi-1.5 + LoRA fine-tuning  
+- **LLM:** Phi-1.5 + Q-LoRA fine-tuning  
 - **Retriever:** FAISS + BM25 + Cross-encoder re-ranking  
 - **Frontend:** Streamlit (with `@st.cache_resource` optimization)  
 - **Deployment:** Docker + Google Cloud Run  
